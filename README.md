@@ -24,10 +24,15 @@ AtlasX402 serves as an open-source hub for developers and organizations to explo
 
 
 ✨ **Instant Search** - Quickly filter by title, overview, or keywords
+
 🏷️ **Intelligent Tagging** - Navigate categories and apply multi-tag combinations
+
 📱 **Adaptive Layout** - Smooth usability across devices, from desktops to mobiles
+
 🎨 **Coinbase-Inspired Design** - Sleek bluish theme with white text for optimal readability
+
 🔄 **Seamless Deployment** - Updates auto-deploy through Vercel
+
 🌐 **Community-Focused** - Transparent, collaborative, and fully open-source
 
 ---
