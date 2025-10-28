@@ -1,0 +1,224 @@
+[
+  {
+    "name": "PayAI",
+    "url": "https://payai.network/",
+    "logo": "https://payai.network/favicon.ico",
+    "description": "Solana-first, multi-network x402 facilitator.",
+    "category": "Token",
+    "tags": [
+      "x402",
+      "Token",
+      "Mint"
+    ],
+    "rating": 5,
+    "recommended": true
+  },
+  {
+    "name": "S.A.N.T.A",
+    "url": "https://santagent.xyz/",
+    "logo": "https://santagent.xyz/favicon.ico",
+    "description": "S.A.N.T.A: Swarm of Autonomous Networked Task Agents.",
+    "category": "Payments",
+    "tags": [
+      "x402",
+      "Payments",
+      "Developer"
+    ],
+    "rating": 5,
+    "recommended": true
+  },
+  {
+    "name": "Gloria AI",
+    "url": "https://itsgloria.ai/",
+    "logo": "https://itsgloria.ai/favicon.ico",
+    "description": "AI powered News & Data | x402 & ACP enabled",
+    "category": "Token",
+    "tags": [
+      "x402",
+      "Token"
+    ],
+    "rating": 4,
+    "recommended": false
+  },
+  {
+    "name": "AurraCloud",
+    "url": "https://aurracloud.com/",
+    "logo": "https://aurracloud.com/favicon.ico",
+    "description": "Transform any AI agent, workflow, or API endpoint into a revenue stream with on-chain payments.",
+    "category": "Token",
+    "tags": [
+      "x402",
+      "Token",
+      "Meme"
+    ],
+    "rating": 4,
+    "recommended": false
+  },
+  {
+    "name": "Ping Observer",
+    "url": "https://api.ping.observer",
+    "logo": "https://cdn.dexscreener.com/cms/images/66fccd9c55c6a79e5aea763ede2b67b11ed1ddf3479839f904d894d3939ef200?width=64&height=64&fit=crop&quality=95&format=auto",
+    "description": "First token launched on x402 with simple mint endpoints.",
+    "category": "Token",
+    "tags": [
+      "x402",
+      "Token"
+    ],
+    "rating": 3,
+    "recommended": false
+  },
+  {
+    "name": "x420",
+    "url": "https://x420.dev/",
+    "logo": "https://x420.dev/favicon.ico",
+    "description": "calm your requests",
+    "category": "Service/Endpoint",
+    "tags": [
+      "x402",
+      "Agents",
+      "Automation"
+    ],
+    "rating": 5,
+    "recommended": true
+  },
+  {
+    "name": "Firecrawl API",
+    "url": "https://api.firecrawl.dev",
+    "logo": "https://raw.githubusercontent.com/firecrawl/firecrawl/main/img/firecrawl_logo.png",
+    "description": "Web crawling, scraping, and search API purchasable via x402.",
+    "category": "Data/API",
+    "tags": [
+      "x402",
+      "Data",
+      "Search"
+    ],
+    "rating": 5,
+    "recommended": true
+  },
+  {
+    "name": "Snack Money",
+    "url": "https://api.snack.money",
+    "logo": "https://snack.money/favicon.ico",
+    "description": "Micropayments to social accounts (X, Farcaster, GitHub) using USDC and x402.",
+    "category": "Payments",
+    "tags": [
+      "x402",
+      "Micropayments",
+      "USDC"
+    ],
+    "rating": 4,
+    "recommended": true
+  },
+  {
+    "name": "Invokr API",
+    "url": "https://api.invokr.dev",
+    "logo": "https://www.invokr.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-white-2.9cbcb806.png&w=256&q=75",
+    "description": "Turn APIs into pay-per-use endpoints with x402.",
+    "category": "Service/Endpoint",
+    "tags": [
+      "x402",
+      "Monetization",
+      "API"
+    ],
+    "rating": 4,
+    "recommended": true
+  },
+  {
+    "name": "AInalyst API",
+    "url": "http://ainalyst-api.xyz",
+    "logo": "http://ainalyst-api.xyz/favicon.ico",
+    "description": "Experimental agent/data endpoints surfaced via x402.",
+    "category": "Data/API",
+    "tags": [
+      "x402",
+      "Agents",
+      "Data"
+    ],
+    "rating": 3,
+    "recommended": false
+  },
+  {
+    "name": "BIP (BIPx402)",
+    "url": "http://api.bipx402.com",
+    "logo": "https://bipx402.com/logo.png",
+    "description": "Mint 5k $BIP fair-launch token via x402; auto-liquidity on mint out.",
+    "category": "Token",
+    "tags": [
+      "x402",
+      "Token",
+      "Mint"
+    ],
+    "rating": 3,
+    "recommended": false
+  },
+  {
+    "name": "x402 Pepe",
+    "url": "https://api.x402pepe.com",
+    "logo": "https://www.x402pepe.xyz/_next/image?url=%2Flogo.png&w=256&q=75",
+    "description": "x402-powered Pepe mint (some endpoints disabled).",
+    "category": "Token",
+    "tags": [
+      "x402",
+      "Token",
+      "Mint"
+    ],
+    "rating": 2,
+    "recommended": false
+  },
+  {
+    "name": "Retry402",
+    "url": "https://api.retry402.com",
+    "logo": "https://retry402.com/favicon.png",
+    "description": "x402 utility token facilitator with mint endpoints.",
+    "category": "Facilitator",
+    "tags": [
+      "x402",
+      "Token",
+      "Facilitator"
+    ],
+    "rating": 4,
+    "recommended": false
+  },
+  {
+    "name": "x402 ZeroClick",
+    "url": "https://x402zeroclick.com",
+    "logo": "https://x402zeroclick.com/favicon.ico",
+    "description": "First NFT mint designed for AI agents using x402.",
+    "category": "NFT",
+    "tags": [
+      "x402",
+      "NFT",
+      "Agents"
+    ],
+    "rating": 3,
+    "recommended": false
+  },
+  {
+    "name": "AgentLayer",
+    "url": "https://agentlayer.xyz",
+    "logo": "https://agentlayer.xyz/favicon.ico",
+    "description": "Autonomous AI Agent Network exposing paid resources via x402.",
+    "category": "Network/Agents",
+    "tags": [
+      "x402",
+      "Agents",
+      "Network"
+    ],
+    "rating": 4,
+    "recommended": false
+  },
+  {
+    "name": "x402cloud",
+    "url": "https://mint.x402cloud.xyz",
+    "logo": "https://x402cloud.xyz/favicon.ico",
+    "description": "HTTP-native payments for NFT minting and collections on x402.",
+    "category": "NFT",
+    "tags": [
+      "x402",
+      "NFT",
+      "Mint"
+    ],
+    "rating": 3,
+    "recommended": false
+  }
+]
