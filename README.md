@@ -8,7 +8,7 @@
 
 A curated, community-maintained directory of x402 payment protocol tools, APIs, and resources.
 
-[Visit Website](https://atlas402.xyz) • [Contribute](#-contribution-guide) • [Report Issue](https://github.com/AtlasX402/AtlasX402/issues)
+[Visit Website](https://atlas402.xyz) • [Contribute](#-contribution-guide) • [Report Issue](https://github.com/AtlasX402/AtlasX402-Core/issues)
 
 </div>
 
@@ -24,10 +24,15 @@ AtlasX402 serves as an open-source hub for developers and organizations to explo
 
 
 ✨ **Instant Search** - Quickly filter by title, overview, or keywords
+
 🏷️ **Intelligent Tagging** - Navigate categories and apply multi-tag combinations
+
 📱 **Adaptive Layout** - Smooth usability across devices, from desktops to mobiles
+
 🎨 **Coinbase-Inspired Design** - Sleek bluish theme with white text for optimal readability
+
 🔄 **Seamless Deployment** - Updates auto-deploy through Vercel
+
 🌐 **Community-Focused** - Transparent, collaborative, and fully open-source
 
 ---
@@ -186,9 +191,9 @@ Built with ❤️ for the x402 community. Special thanks to all contributors who
 - [Website](https://atlas402.xyz)
 - [Twitter](https://x.com/atlasx402)
 - [x402 Documentation](https://x402.gitbook.io/x402)
-- [GitHub Repository](https://github.com/AtlasX402)
-- [Submit an Issue](https://github.com/AtlasX402/issues)
-- [Request a Feature](https://github.com/AtlasX402/issues/new)
+- [GitHub Repository](https://github.com/AtlasX402/AtlasX402-Core)
+- [Submit an Issue](https://github.com/AtlasX402/AtlasX402-Core/issues)
+- [Request a Feature](https://github.com/AtlasX402/AtlasX402-Core/issues/new)
 
 ---
 
