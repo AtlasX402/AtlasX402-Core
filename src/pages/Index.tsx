@@ -103,6 +103,9 @@ const Index = () => {
             Discover curated tools, APIs, and integrations for the x402 open payment standard. 
 			Unlock seamless programmatic payments over HTTP with crypto-native speed and efficiency.
           </p>
+		  <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
+            CA: *coming soon*
+          </p>
         </div>
 
         {/* Search Bar */}
